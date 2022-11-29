@@ -1,5 +1,5 @@
 {
-  "name": "@latouchetest/test-ui",
+  "name": "test-ui",
   "version": "1.0.0",
   "description": "Test package configuration",
   "repository": {
