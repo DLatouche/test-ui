@@ -1,6 +1,6 @@
 {
-  "name": "test-ui",
-  "version": "1.0.1",
+  "name": "@latouchetest/test-ui",
+  "version": "1.0.3",
   "description": "Test package configuration",
   "repository": {
     "type": "git",
@@ -8,8 +8,8 @@
   },
   "author": "Dorian <dorian@latouche.dev>",
   "license": "MIT",
-  "main": "dist/cjs/index.ts",
-  "module": "dist/esm/index.ts",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
   "files": [
     "dist",
